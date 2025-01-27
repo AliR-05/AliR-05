@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">I'm studying Data Science and Engineering. I am from Kazan</h3>
+<br clear="both">
 
-- 🔭 I’m currently working on **creating various programmes in Python**
+<div align="center">
+  <img height="300" width="600" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRvbndjYWJ3bmtjMzVxaWtub2l5aDE1YWx5M3hhb3dzcDcyMWVqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"/>
+</div>
 
-- 🌱 I am currently actively learning **Python**
+###
 
-- 📫 How to reach me **bartalin100@gmail.com**
+<h1 align="center">Hi 👋, I'm Ali!</h1>
+
+###
+
 <div align="center">
   <!-- Telegram -->
   <a href="https://t.me/AliRadzhabov" target="_blank">
@@ -23,9 +27,23 @@
   </a>
 </div>
 
-<p align="left">
-</p>
+###
+
+<h3 align="left">👩‍💻 About Me</h3>
+
+###
+
+<p align="left">Sure! Here’s the updated text in English: Hi! My name is Ali, and I also studied at School 21. Currently, I am focusing on data science and striving to enhance my skills in this field.
+    🔭 I am currently studying at School 21, continuously evolving as a developer.
+    📚  Focused on learning data science to transition from backend development to this new area.
+    ⚡ Always eager to learn new technologies and tackle challenging problems!</p>
+
+###
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> </p>
 
+###
+
+
+###
